@@ -1,1 +1,1 @@
-# ligeligeti
+# python basic code
